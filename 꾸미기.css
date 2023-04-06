@@ -1,0 +1,8 @@
+h2 { color: rgba(0, 90, 224, 0.781);  letter-spacing:1px; }
+h2 {background-color: rgb(248, 210, 210); border:2px solid rgb(248, 210, 210); padding: 10px 20px; }
+.소개 {background-color: #526cff; font-family:Verdana, Geneva, Tahoma, sans-serif;}
+ul { background-color: #ffbcd0; width: 250px; list-style-type: none; margin: 0; padding: 0; }
+li a { display: block; color: #000000; padding: 8px; text-decoration: none; font-weight: bold; }
+li a:hover { background-color: #ff71c4; color: white; }
+li a.current { background-color: #FF6347; color: white; }
+li a:hover:not(.current) { background-color: #ff71c4; color: white; }
